@@ -1,5 +1,7 @@
 # Scaffolding project for JavaFX and Spring Boot on Java 8 
 
+[![Build Status](https://travis-ci.org/MarcinLachowicz/spring-boot-javafx-scaffolding.svg?branch=master)](https://travis-ci.org/MarcinLachowicz/spring-boot-javafx-scaffolding)
+
 Every time you need to start a new project using [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm) and [Spring Boot](https://spring.io/projects/spring-boot), you need to do some plumbing work.
 This project enables you to skip this boring job and focus on your goal. 
 
